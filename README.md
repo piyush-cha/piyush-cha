@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm PIYUSH </h1>
-<h3 align="center">"Experienced Web & IoT Developer | Data Analytics & Machine Learning Enthusiast | Autonomous Database Cloud Specialist</h3>
+<h3 align="center">"Web & IIoT Developer | Embarking on a Data Analysis & GCP Learning Journey | Enthusiastic about Google skill boost</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" padding="10%" >
 
 - 🌱 I’m currently learning **Data Analytics**
 
-- 💬 Ask me about **Web Developement , Cloud Computing , Data Analytics , Autonomous Database**
+- 💬 Ask me about **Web Developement , IIOT , Data Analytics and GCP**
 
 - 📫 How to reach me **pchafle903@gmail.com**
 
