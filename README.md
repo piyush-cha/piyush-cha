@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm PIYUSH </h1>
-<h3 align="center">"Web & IIoT Developer | Embarking on a Data Analysis & GCP Learning Journey | Enthusiastic about Google skill boost</h3>
+<h3 align="center">"Web & IIoT Developer | Embarking on a Data Analysis & GCP Learning Journey | Enthusiastic about Google skill boost"</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" padding="10%" >
 
