@@ -1,81 +1,21 @@
-<div align="center">
-  <img src="https://your-image-url-here.com/hero-banner.png" alt="Piyush Chafle - Software Developer" width="100%">
-</div>
+# 💫 About Me:
+👋 Hi, I’m Piyush Chafle!<br><br>💻 Software & App Development Enthusiast: I’m passionate about building smart and impactful solutions, exploring AI, AR, app development, and web technologies.<br>🌟 Hackathon Winner: As a proud member of HackHorizon, I’ve had the privilege of winning multiple hackathons.<br>🚀 Projects: From creating Meal Mate to MargDarshak and delivering innovative React Native apps at DCS, I love turning ideas into reality.<br>📊 Data Analyst: At DCS, I’ve contributed to energy-saving solutions by turning data into meaningful insights.<br>🛠️ Skills: I’m skilled in React, React Native, Python, AR/VR, Industrial IoT, Blockchain, app development, and competitive programming.<br>🌐 Tech Explorer: I’m always eager to explore new ideas, create impactful solutions, and push the boundaries of technology.
 
-<h1 align="center">👋 Hi, I'm Piyush Chafle!</h1>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/piyush-chafle-175621271/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
-  <a href="https://twitter.com/piyush_chafle02"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a>
-  <a href="https://www.instagram.com/piyushchafle26/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-  <a href="https://www.youtube.com/channel/UC837rdO01Hc1QA0n8jn70iw"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white"/></a>
-</p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.linkedin.com/in/piyushchafle26/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/piyush-chafle-175621271/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/piyush_chafle02) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/channel/UC837rdO01Hc1QA0n8jn70iw) 
 
-<div align="center">
-  <img src="https://your-gif-url-here.com/coding.gif" alt="Coding Gif" width="500">
-</div>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=piyush_cha&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=piyush_cha&theme=shadow_blue&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=piyush_cha&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 💫 About Me
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-- 💻 Software & App Development Enthusiast
-- 🌟 Hackathon Winner with HackHorizon
-- 🚀 Project Creator: Meal Mate, MargDarshak, and more
-- 📊 Data Analyst at DCS, contributing to energy-saving solutions
-- 🛠️ Skilled in React, React Native, Python, AR/VR, Industrial IoT, Blockchain
-- 🌐 Tech Explorer always eager to push boundaries
+---
+[![](https://visitcount.itsvg.in/api?id=piyush_cha&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🔧 Technologies & Tools
-
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
-
-## 📈 GitHub Stats
-
-<a href="https://github.com/piyush_cha">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyush_cha&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-<a href="https://github.com/piyush_cha">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=piyush_cha&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Piyush's GitHub Stats" />
-</a>
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=piyush_cha&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-## 🗂️ Highlight Projects
-
-<a href="https://github.com/piyush_cha/MealMate">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=piyush_cha&repo=MealMate&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-<a href="https://github.com/piyush_cha/MargDarshak">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=piyush_cha&repo=MargDarshak&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-## 🎯 Future Goals
-
-- Contribute to open-source projects
-- Explore more in AI and Machine Learning
-- Develop innovative AR/VR applications
-
-## 📫 Get in Touch
-
-- LinkedIn: [https://www.linkedin.com/in/piyush-chafle-175621271/](https://www.linkedin.com/in/piyush-chafle-175621271/)
-- Twitter: [https://twitter.com/piyush_chafle02](https://twitter.com/piyush_chafle02)
-- Email: piyushchafle@email.com
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=piyush_cha&style=flat-square&color=blue" alt=""/>
-</div>
-
-<div align="center">
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg"/>
-  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg"/>
-</div>
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
